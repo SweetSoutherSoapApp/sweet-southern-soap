@@ -99,7 +99,7 @@ with tab3:
                     <div style="border-top: 2px solid #6b5b6b; padding-top: 15px; margin-top: 25px; font-family: sans-serif; text-align: center; color: #4a404a;">
                         <img src="{LOGOUT_URL}" alt="Sweet Southern Soap" style="max-width: 200px; width: 100%; height: auto; display: block; margin: 0 auto 10px auto;"><br>
                         <div style="margin-top: 5px;">
-                            <strong>Marlin Johnson, Owner</strong><br>
+                            <strong>Vinnie & Marlin Johnson</strong><br>
                             <a href="mailto:sweetsouthernhoneyco@yahoo.com" style="color: #6b5b6b; text-decoration: none;">sweetsouthernhoneyco@yahoo.com</a><br>
                             <a href="tel:2512813131" style="color: #4a404a; text-decoration: none;">(251) 281-3131</a><br>
                             Sweet Southern Soap, Douglas and Diffee Rd, Grand Bay, AL, United States, 36541<br>
