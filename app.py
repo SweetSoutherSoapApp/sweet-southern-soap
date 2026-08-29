@@ -92,7 +92,7 @@ with tab3:
                 current_time = datetime.datetime.now().strftime("%b %d, %Y %I:%M %p")
                 
                 # Replace with the real GitHub raw image URL once uploaded
-                LOGOUT_URL = "URL_OF_YOUR_ONLINE_HOSTED_LOGO_IMAGE"
+                LOGOUT_URL = "https://github.com/SweetSoutherSoapApp/sweet-southern-soap/blob/main/SweetSouthernLargeLogo.jpg?raw=true"
                 
                 # Branded Footer
                 FOOTER_HTML = f"""
